@@ -3,6 +3,11 @@
 
 # Overview
 This chatbot is created for the TPA coverage including both Business Partners in the ecosystem and Architects in the build movement. 
+What else is needed: 
+- 2021 GSI TPA excel sheet
+- BUILD- TPS TPA excel sheet
+- Build Partners excel sheet
+- US COVERAGE excel sheet
 
 # How to upload the chatbot
 To upload the chatbot into watson assistant all you have to do is download the JSON file and go to the watson assistant on the cloud. Create a new skill within the assistant and from there you can upload the JSON file into the chatbot and the chatbot skill will show up and you can work from there.
